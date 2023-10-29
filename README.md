@@ -20,33 +20,5 @@
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Aiming towards Advancing my skills ✨✨<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> When i code it makes me feels like i've power to bring my imagination to reality.
 
-<br>
-<h2><i>⚙️ GitHub Analytics</i></h2>
-<p align="center">
-<a href="https://github.com/sajiidx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
- 
-<br>
 
-# Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
-
-<br>
-
-<h3 align="center">Github Metrics</h3>
-<p align="center">
-	<img width="625em" src="https://github.com/sajiidx/sajiidx/blob/master/github-metrics.svg" />
-</p>
-
-<p>
-     <img style="float:left" width="625em" src="https://github.com/sajiidx/sajiidx/blob/master/metrics.plugin.habits.facts.svg" />
-    
-</p>
 
