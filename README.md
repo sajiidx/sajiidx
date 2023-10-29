@@ -17,3 +17,6 @@
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Full Stack Front-End , Machine/Deep Learning and C++ and Python Development<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Aiming towards Advancing my skills ✨✨<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> When i code it makes me feels like i've power to bring my imagination to reality.
+
+
+[![An image of @sajiidx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajiidx)](https://holopin.io/@sajiidx)
