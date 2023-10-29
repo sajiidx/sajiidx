@@ -6,7 +6,7 @@
 <h2> 
  
 ![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajiidx&theme=cobalt&show_icons=true)
-<br>
+
 [![An image of @sajiidx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajiidx)](https://holopin.io/@sajiidx)
 
 <a href="https://github.com/sajiidx"><img alt="Sajid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sajiidx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
