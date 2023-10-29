@@ -46,7 +46,6 @@
 </p>
 
 <p>
-     <img style="float:left" width="625em" src="https://github.com/sajiidx/sajiidx/blob/master/metrics.plugin.habits.facts.svg" />
-    
+     	<img style="float:left" width="625em" src="https://github.com/sajiidx/sajiidx/blob/master/metrics.plugin.habits.facts.svg" />
 </p>
 
